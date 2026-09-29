@@ -3,3 +3,6 @@ Hello! I am spandana student intrested in technology ,programming,and web devlop
 
 ##skills
 C,Python,HTML,CSS,JavaScript and GitHub.
+
+## Intrests
+i am intrested in web devlopment , software devlopment and creating useful projects.
